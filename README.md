@@ -9,7 +9,8 @@ This module is just a wrapper so you have to have a binary version of GSW-C inst
 There are two ways of getting it:
 
 1). Build it yourself following [GSW-C](https://github.com/TEOS-10/GSW-C/) instructions. This way is highly recommended;
-2). Use [precompiled binaries](https://github.com/kouketsu/GSWCBuilder/releases). This approach is experimental and may not work for your system.
+
+2). Use [precompiled binaries](https://github.com/kouketsu/GSWCBuilder/releases). This approach is experimental and may not work on your system.
 
 To use the module in your code simply copy 'gibbsseawater.pas' into your project folder and add it to the 'uses' section.
 
