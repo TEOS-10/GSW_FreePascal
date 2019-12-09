@@ -7,14 +7,14 @@ GSW_FreePascal is a FreePascal/Lazarus wrapper for [GSW-C#master](https://github
 This module is just a wrapper so you have to have a binary version of GSW-C installed on your machine.
 
 There are two ways of getting it:
-1). Build it yourself following [GSW-C#master](https://github.com/TEOS-10/GSW-C/) instructions. This way is highly recommended;
+
+1). Build it yourself following [GSW-C](https://github.com/TEOS-10/GSW-C/) instructions. This way is highly recommended;
 2). Use [precompiled binaries](https://github.com/kouketsu/GSWCBuilder/releases). This approach is experimental and may not work for your system.
 
 To use the module in your code simply copy 'gibbsseawater.pas' into your project folder and add it to the 'uses' section.
 
 ```
 uses GibbsSeaWater; 
-
 ```
 If you work on Windows just put 'libgswteos-10.dll' next to your executable.
 
