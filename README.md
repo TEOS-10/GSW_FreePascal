@@ -1,6 +1,6 @@
-# GSW_FreePascal
+# GSW-FreePascal
 
-GSW_FreePascal is a FreePascal/Lazarus wrapper for [GSW-C#master](https://github.com/TEOS-10/GSW-C/), which is the C implementation of the Thermodynamic Equation of Seawater 2010 (TEOS-10).
+GSW-FreePascal is a FreePascal/Lazarus wrapper for [GSW-C](https://github.com/TEOS-10/GSW-C/), which is the C implementation of the Thermodynamic Equation of Seawater 2010 (TEOS-10).
 
 ## Installation
 
@@ -40,6 +40,7 @@ Begin
   writeln(res1+#9+res2+#9+res3);
 End;
 
+More information on the functions can be found [here](https://github.com/TEOS-10/GSW-documentation).
 ```
 
 ## About TEOS-10
