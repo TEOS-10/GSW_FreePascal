@@ -39,9 +39,9 @@ Begin
 
   writeln(res1+#9+res2+#9+res3);
 End;
+```
 
 More information on the functions can be found [here](https://github.com/TEOS-10/GSW-documentation).
-```
 
 ## About TEOS-10
 
